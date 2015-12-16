@@ -16,7 +16,7 @@ Hash tables implementadas em C.
 
 Pela linha de comando, chame o programa compilado com os seguintes parametros:
 
-> <executavel> <arquivo de entrada> <buscas> <arquivo de saida>
+> {executavel} {arquivo de entrada} {buscas} {arquivo de saida}
 
 Exemplo:
 
